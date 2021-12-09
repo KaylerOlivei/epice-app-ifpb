@@ -22,7 +22,7 @@ export default function Footer() {
         spacing={4}
         justify={'center'}
         align={'center'}>
-        <Image w="280px" h="140px" src={'https://3000-chocolate-squirrel-2xcs1j9b.ws-us21.gitpod.io/img/epice.png'} />
+        <Image w="280px" h="140px" src={'img/epice.png'} />
       </Container>
 
       <Box
